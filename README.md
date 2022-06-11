@@ -13,7 +13,7 @@ FITUR:
 <h2>Cara Install</h2>
 Tool ini menggunakan python3 
 
-<pre>git clone https://github.com/ZxxLKX/</pre>
+<pre>git clone https://github.com/ZxxLKX/ZxxLKXDos</pre>
 
 Install request:
 ```
