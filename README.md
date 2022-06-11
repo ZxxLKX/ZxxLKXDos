@@ -39,4 +39,5 @@ $ python3 ZxxLKX.py
 
 CREDIT : https://github.com/Bandhitawkunthi
 RECODE BY : https://github.com/ZxxLKX 
+
 GASKEN DDOS WEBSITE NO KENDOR !! TAPI JANGAN ABUSE YA
